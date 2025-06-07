@@ -4,5 +4,9 @@ We use the hectometer-scale stimulation experiments conducted in the Bedretto Un
 Obermann, A., Rosskopf, M., Durand, V., Plenkers, K., Bröker, K., Rinaldi, A. P., ... & Giardini, D. (2024). Seismic response of hectometer‐scale fracture systems to hydraulic stimulation in the Bedretto Underground Laboratory, Switzerland. Journal of Geophysical Research: Solid Earth, 129(11), e2024JB029836.
 
 Rosskopf, M., Durand, V., & Obermann, A. (2024). Seismic Catalogs for the 2022-2023 Hydraulic Stimulation Experiments at the Bedretto Underground Laboratory.
+
+## Dependence Packages
+matplotlib, numpy, h5py, pandas, scipy, tensorflow,sklearn, os,keras
+
 ## Acknowledgments
 This work is a partial result of support from the US Department of Energy under grant DE-EE008763 and grant EE0007080 through Utah FORGE. This support is gratefully acknowledged. The BedrettoLab is financed by the Werner Siemens Foundation, ETH Zürich and the Swiss National Science Foundation. The research in this publication was conducted within the project VALTER and has received additional funding by the Swiss Federal Office of Energy (SFOE). CJM acknowledges support from the European Research Council Advanced Grant 835012 (TECTONIC) the RETURN Extended Partnership and funding from the European Union Next-GenerationEU (National Recovery and Resilience Plan – NRRP, Mission 4, Component 2, Investment 1.3 – D.D. 1243 2/8/2022, PE0000005. PS acknowledges support from US Department of Energy (DE-SC0017585) and from the National Science Foundation under Grant No. (CMMI # 2121005). DE gratefully acknowledges support from EGS-Collab funding through LBNL and the G. Albert Shoemaker endowment. 
